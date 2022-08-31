@@ -1,12 +1,11 @@
-# HTML_CSS_TeamMembers
+# HTML_CSS_TeamMembers 
 
 
 ## Description
-Project aims to create survey form within html and css.
+Project aims to create team members within html and css.
 
 ## Problem Statement
-
-- Your company has recently started on a project that aims to conduct a survey to measure the demands and interests of its customers. So you and your colleagues have started to work on the project.
+- Your company has recently started a project to promote its employees on its website. So you and your colleagues will promote it on the project.
 
 ## Project Design
 
@@ -15,22 +14,19 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----solution
-        |----index.html  
-        |----style.css   
-        |----result.html 
+001-Team members (folder)
+|----images
+|----readme.md                 
+|----index.html  
+|----style.css   
+       
 ```
 
 ## Expected Outcome
 
-![Project 001 Snapshot] (./netflix-form.png)
-
 ## Objective
 
-Functionally create a Survey Form as in the image above
+Functionally create a Team members as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
@@ -57,7 +53,7 @@ Functionally create a Survey Form as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Survey Form
+- Step 3: Create Team members
 
 >>Part-1 HTML Structure
 
@@ -66,19 +62,14 @@ Functionally create a Survey Form as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="survey-form")
-	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:dont forget to use placeholder)
-	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
-	- Create a division (class="box") for checkbox list
-	- Create a division (class="box") for radio buttons
-	- Create a division (class="box") for a multi-line input field (Tips: a text area)
-	- Create a button for id="submit" the form
+	- Create a form (id="team-members")
+	
 
 >>Part-2 CSS Structure
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
-	- Define "survey-form" color-size-padding etc..
+	- Define "team-members" color-size-padding etc..
 	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
